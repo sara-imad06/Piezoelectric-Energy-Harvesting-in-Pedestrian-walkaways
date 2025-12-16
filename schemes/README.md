@@ -20,8 +20,8 @@ Here is a list of each component with a link and some additional notes:
 - **Resistors** [Resistors]([https://roboticx.ps/product/capacitor/](https://roboticx.ps/product/diode-rectifier-1a-50v/))
   - 4* Resistors (1M)ohm (10,100)k ohm
   - Used to control current flow, divide voltage, and protect components within the circuit
-  - **I2C 16x02 Serial LCD for Arduino & RPI** [I2C]([https://roboticx.ps/product/capacitor/](https://roboticx.ps/product/diode-rectifier-1a-50v/)](https://roboticx.ps/product/i2c-16x02-serial-lcd-for-arduino-rpi/))
-  - 4* Resistors (1M)ohm (10,100)k ohm
+  **I2C 16x02 Serial LCD for Arduino & RPI** [I2C]([https://roboticx.ps/product/capacitor/](https://roboticx.ps/product/diode-rectifier-1a-50v/)](https://roboticx.ps/product/i2c-16x02-serial-lcd-for-arduino-rpi/))
+  - Displays text and basic characters from the microcontroller with minimal pin usage, ideal for Arduino and Raspberry Pi projects.
 
 
 ## Sensors communication protocols
